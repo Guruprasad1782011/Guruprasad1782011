@@ -23,13 +23,13 @@ Currently focusing on **phishing detection**, web application security, and lear
 ### 🛠️ Tech Stack & Skills
 
 **Languages**  
-`Python` `TypeScript` `JavaScript` `Bash`
+`Python` `Bash`
 
 **Security Focus**  
 `Phishing Detection` `Email Security` `Web Security` `Reconnaissance` `Security Headers`
 
 **Tools & Platforms**  
-`Git` `GitHub` `Linux` `Vite` `Node.js`
+`Git` `GitHub` `Linux`
 
 ---
 
@@ -40,7 +40,6 @@ Currently focusing on **phishing detection**, web application security, and lear
 | [**link-security-analyzer**](https://github.com/Guruprasad1782011/link-security-analyzer) | Ethical tool to analyze websites for security issues (headers, SSL, redirects) | Web Security |
 | [**protection-from-**](https://github.com/Guruprasad1782011/protection-from-) | Email phishing detection tool | Security / Blue Team |
 | [**security-learning-path**](https://github.com/Guruprasad1782011/security-learning-path) | My cybersecurity learning journey & roadmap | Continuous Learning |
-| [**calculator-pro**](https://github.com/Guruprasad1782011/calculator-pro) | Scientific calculator web app | Full-stack development |
 
 ---
 
@@ -53,10 +52,9 @@ Currently focusing on **phishing detection**, web application security, and lear
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect
 
 - **GitHub**: [Guruprasad1782011](https://github.com/Guruprasad1782011)
-- **Email**: hegdeguruprasad612@gmail.com
 
 ---
 
