@@ -38,6 +38,7 @@ Currently focusing on **phishing detection**, web application security, and lear
 | Project | Description | Focus |
 |---------|-------------|-------|
 | [**protection-from-**](https://github.com/Guruprasad1782011/protection-from-) | Email phishing detection tool | Security / Blue Team |
+| [**security-learning-path**](https://github.com/Guruprasad1782011/security-learning-path) | My cybersecurity learning journey & roadmap | Continuous Learning |
 | [**calculator-pro**](https://github.com/Guruprasad1782011/calculator-pro) | Scientific calculator web app | Full-stack development |
 
 ---
