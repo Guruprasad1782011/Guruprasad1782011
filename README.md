@@ -2,49 +2,66 @@
 
 # Hi, I'm Guruprasad Hegde 👋
 
-**Software Developer | Building practical tools with Python & TypeScript**
+### Aspiring Ethical Hacker | Security Enthusiast | Python Developer
 
 </div>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-I'm a developer focused on creating useful applications and security tools. I enjoy working with modern web technologies and Python for practical problem-solving.
+I'm passionate about **cybersecurity** and building practical security tools.  
+Currently focusing on **phishing detection**, web application security, and learning penetration testing methodologies.
 
-- Currently exploring full-stack development and security-related projects
-- Passionate about clean code and building tools that solve real problems
-
----
-
-### Tech Stack
-
-**Languages & Frameworks**  
-`Python` `TypeScript` `React` `JavaScript`
-
-**Tools & Others**  
-`Vite` `Node.js` `Git` `GitHub`
+- 🔭 Working on security tools and automation scripts
+- 🌱 Learning: Ethical Hacking, Web App Security, Network Security
+- 💬 Ask me about: Python, Phishing Analysis, Basic Recon
+- ⚡ Fun fact: I enjoy turning security concepts into working tools
 
 ---
 
-### Featured Projects
+### 🛠️ Tech Stack & Skills
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**calculator-pro**](https://github.com/Guruprasad1782011/calculator-pro) | Scientific calculator web app | TypeScript, React, Vite |
-| [**protection-from-**](https://github.com/Guruprasad1782011/protection-from-) | Email phishing detection tool | Python |
+**Languages**  
+`Python` `TypeScript` `JavaScript` `Bash`
+
+**Security Focus**  
+`Phishing Detection` `Email Security` `Web Security` `Reconnaissance`
+
+**Tools & Platforms**  
+`Git` `GitHub` `Linux` `Vite` `Node.js`
 
 ---
 
-### Connect with Me
+### 🚀 Featured Projects
 
-- GitHub: [Guruprasad1782011](https://github.com/Guruprasad1782011)
-- Email: hegdeguruprasad612@gmail.com
+| Project | Description | Focus |
+|---------|-------------|-------|
+| [**protection-from-**](https://github.com/Guruprasad1782011/protection-from-) | Email phishing detection tool | Security / Blue Team |
+| [**calculator-pro**](https://github.com/Guruprasad1782011/calculator-pro) | Scientific calculator web app | Full-stack development |
+
+---
+
+### 📚 Currently Learning
+
+- Penetration Testing fundamentals
+- OWASP Top 10
+- TryHackMe / HackTheBox paths
+- Network scanning & reconnaissance
+
+---
+
+### 📫 Connect with Me
+
+- **GitHub**: [Guruprasad1782011](https://github.com/Guruprasad1782011)
+- **Email**: hegdeguruprasad612@gmail.com
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+**"Security is not a product, but a process."**  
+
+⭐ Thanks for stopping by!
 
 </div>
